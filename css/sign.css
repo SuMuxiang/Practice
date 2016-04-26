@@ -1,0 +1,125 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.clear {
+    clear: both;
+}
+
+body {
+    background: #eee;
+}
+
+#titleBack {
+    margin-top: 100px;
+    width: 100%;
+}
+
+#titleBack h1{
+    line-height: 30px;
+    text-align: center;
+    font-size: 22px;
+    color: #505050;
+}
+
+#bodyContentBack {
+    position: absolute;  top: 50%; left: 50%;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 30px 25px;
+    background: white;
+}
+
+#signBack {
+    transition: all 0.3s ease;
+}
+
+.contentInput {
+    display: block;
+    margin-top: 15px;
+    box-sizing: border-box; padding: 0 5px;
+    width: 250px;
+    height: 35px;
+    text-align: center;
+    border: 1px #619eff solid;
+    border-radius: 3px;
+    outline: none;
+}
+
+.inputLabel {
+    display: block;
+    margin-top: 15px;
+    text-align: center;
+    color: #505050;
+}
+
+#signSelect option{
+    padding-top: 15px;
+}
+
+.contentButton {
+    display: block;
+    margin-top: 30px;
+    box-sizing: border-box;
+    border: 1px #619eff solid;
+    border-radius: 3px;
+    width: 250px;
+    height: 35px;
+    color: white;
+    cursor: pointer;
+    background: #619eff;
+    outline: none;
+}
+
+#checkBack {
+    display: none;
+    transition: all 0.3s ease;
+}
+
+#checkBack p {
+    line-height: 30px;
+    text-align: center;
+    color: #505050;
+}
+
+#checkInputLabel {
+    display: none;
+}
+
+#checkInput {
+    color: #666;
+}
+
+#signStatistics {
+    position: absolute; bottom: 5px; left: 50%;
+    transform: translate(0,-50%);
+}
+
+#signStatistics a {
+    font-size: 14px;
+    color: #666;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

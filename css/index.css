@@ -1,0 +1,147 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #eee;
+}
+
+label {
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+#headerBack {  }
+
+.contentBackClass {
+    padding: 40px 40px;
+    /*margin: 40px auto 40px;*/
+    width: 1000px;
+    border-radius: 3px;
+    box-sizing: border-box;
+    background: white;
+}
+
+.headerTitle {
+    line-height: 35px;
+    font-size: 25px;
+    color: #5d5d5d;
+    text-align: center;
+}
+
+.marginBottom {
+    margin-bottom: 30px;
+}
+
+.headerP {
+    line-height: 22px;
+}
+
+.pIndent {
+    text-indent: 2em;
+}
+
+.pRight {
+    text-align: right;
+}
+
+#bodyContentBack {
+    position: absolute; top: 40%; left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.radioBack {
+    display: none;
+}
+
+.radioTitle {
+    margin-top: 40px;
+}
+
+.radioP{  }
+
+.courseTitle {
+    margin: 30px 0 0 20px;
+}
+
+.radioP input {
+    margin: 20px 4px 0 20px;
+}
+
+.checkP input {
+    margin: 20px 4px 0 20px;
+}
+
+.radioP textarea {
+    display: block;
+    margin: 30px 0 0 20px;
+    padding: 10px;
+    width: 80%; height: 200px;
+    resize: none;
+    box-sizing: border-box;
+    border:1px solid #999;
+}
+
+.radioP label {
+    cursor: pointer;
+}
+
+.checkP label {
+    cursor: pointer;
+}
+
+.inputOther {
+    display: block;
+    margin: 20px 0 0 20px;
+    padding: 0 5px;
+    width:300px; height: 25px;
+    /*outline: none;*/
+    color: #515151;
+    box-sizing: border-box;
+}
+
+#submitBack {
+    margin-top: 50px;
+    width: 100%;
+}
+
+#submitBack p {
+    text-align: center;
+}
+
+.submitInput {
+    display: inline-block;
+    margin: 0 auto;  padding: 6px 12px;
+}
+
+#lastOne {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,95 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.clear {
+    clear: both;
+}
+
+body {
+    background: #eee;
+}
+
+#headerBack {  }
+
+.contentBackClass {
+    padding: 40px 40px;
+    margin: 40px auto 40px;
+    width: 1000px;
+    height: 1000px;
+    border-radius: 3px;
+    box-sizing: border-box;
+    background: white;
+}
+
+#statisticsBack {
+    width: 100%;
+}
+
+.statistics {
+    margin-bottom: 40px;
+    width: 100%;
+    /*background: #666;*/
+}
+
+.statisticsTitle {  }
+
+.result {
+    margin: 20px 0 0 0;
+}
+
+.result ul {}
+
+.result ul li {
+    margin-top: 10px;
+    list-style: none;
+}
+.resultTitle {
+    float: left;
+    margin-left: 20px;
+    line-height: 30px;
+    /*background: #999;*/
+}
+
+.resultRectangle {
+    float: left;
+    margin-left: 20px;
+    height: 30px;
+    width: 200px;
+    background: #33aaa2;
+}
+
+.resultNumber {
+    float: left;
+    margin-left: 20px;
+    line-height: 30px;
+    /*background: #999;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
